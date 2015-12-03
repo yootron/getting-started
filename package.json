@@ -4,5 +4,8 @@
   "main": "main.js",
   "devDependencies": {
     "electron-prebuilt": "^0.34.1"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
   }
 }
